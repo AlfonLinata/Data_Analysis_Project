@@ -1,6 +1,6 @@
 # Sales Analysis
 
-This is an analysis of the sales data where we looking for answers of the marketing questions and visualize them.
+This is an analysis of e-commerce sales data where we looking for answers of the marketing questions and visualize them.
 The question include:
 1. What month achieve the highest sales?
 2. What day and day of the week is the best for sales?
