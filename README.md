@@ -1,3 +1,3 @@
-# Data_Analysis_Project
+# Sales Analysis
 
-In this repository, I create general analysis for my reference.
+This is an analysis of the sales data where we looking for answers of the marketing questions and visualize them.
